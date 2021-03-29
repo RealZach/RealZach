@@ -1,5 +1,4 @@
 ###
-[![Anurag's GitHub stats](https://github-readme-stats-one-lyart.vercel.app/api?username=RealZach&show_icons=true&theme=gotham)](https://github.com/RealZach)
-[![Top Langs](https://github-readme-stats-one-lyart.vercel.app/api/top-langs/?username=RealZach)](https://github.com/RealZach)
+[![Zach's GitHub stats](https://github-readme-stats-one-lyart.vercel.app/api?username=RealZach&count_private=true&show_icons=true&theme=gotham)](https://github.com/RealZach)
 
 ###
